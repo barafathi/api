@@ -72,14 +72,14 @@
      "bathroom" : 3 ,
      "bedroom":2,
      
-     "image":"https://img.freepik.com/free-photo/modern-living-room-style_53876-144814.jpg?w=740&t=st=1692535947~exp=1692536547~hmac=6019d78af3f87b9201803bb572accca057b520de821d2c3a697c75899ed065cb"
+     "image":"https://img.freepik.com/free-photo/analog-landscape-city-with-buildings_23-2149661456.jpg?w=740&t=st=1692536291~exp=1692536891~hmac=517cf8e8e33d6620723aea2e56bcaaff314fd670aefd5a430b9692d8e5f405f1"
      }
   ],
 
 
 
   "users": [
-    { "id": 1, "username": "bara", "email": "barafathi19@gmail.com" ,"password": "bara", "mobile": "05952307859","image": "https://img.freepik.com/free-photo/3d-rendering-loft-luxury-living-room-with-bookshelf_105762-2099.jpg?w=740&t=st=1692265287~exp=1692265887~hmac=b036bfd72c6893c2640c31d02b983dbc651136b4e7dbaf71c9e9cf703f236d4fe"}
+    { "id": 1, "username": "bara", "email": "barafathi19@gmail.com" ,"password": "bara", "mobile": "05952307859","image": "https://avatars.githubusercontent.com/u/82666607?v=4"}
   ],
  
   

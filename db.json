@@ -94,7 +94,7 @@
      "bedroom":2,
             "category":"roof",
      "price":500,
-     "city": "kanuouver" 
+     "city": "khanyounis" 
      
      "image":"https://img.freepik.com/free-photo/analog-landscape-city-with-buildings_23-2149661456.jpg?w=740&t=st=1692536291~exp=1692536891~hmac=517cf8e8e33d6620723aea2e56bcaaff314fd670aefd5a430b9692d8e5f405f1"
      }
@@ -108,7 +108,7 @@
   "locations ": [
     { "city": "Gaza" },
   { "city": "Khanyunis" },
-  { "city": "ALwosta" },
+ 
   { "city": "Rafah" },
   { "city": "North" }
   ],
